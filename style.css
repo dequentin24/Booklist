@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal&display=swap');
+
+body{
+  font-family: 'Metal', cursive;
+}
+
+.container{
+  background-color: #eae1de;
+  padding: 10%;
+  box-shadow: 1px 1px 7px rgb(52, 50, 50);
+  border-radius:10px;
+
+  
+}
+
+.title{
+  font-size: 17px;
+}
+
+.author{
+  font-size: 17px;
+}
+
+
+.isbn{
+  font-size: 17px;
+  
+
+}
+
+.submit{
+background-color:#d1cece
+
+}
+
+.submit:hover{
+  background-color:white;
+}
